@@ -1,0 +1,13 @@
+{
+  "name": "final2",
+  "version": "1.0.0",
+  "description": "https://www.frontendpractice.com/projects/oh-studio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "start": "node out/excercise.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
